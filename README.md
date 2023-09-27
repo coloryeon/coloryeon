@@ -1,4 +1,4 @@
-![OMG]!
+![OMG](obscura.mp4)
 
 # 💫 About Me:
 I´m 16 years old. 👾<br>Studying Redes de Computadores at Senai Jandira! :) <br>Trying to learn coding alone. 🐱‍💻
