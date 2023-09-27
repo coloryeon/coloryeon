@@ -1,3 +1,4 @@
+<iframe src="https://giphy.com/embed/4TbyHGVzSACyXvIRIf" width="480" height="101" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4TbyHGVzSACyXvIRIf">via GIPHY</a></p>
 # 💫 About Me:
 I´m 16 years old. 👾<br>Studying Redes de Computadores at Senai Jandira! :) <br>Trying to learn coding alone. 🐱‍💻
 
