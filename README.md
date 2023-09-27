@@ -1,4 +1,4 @@
-![OMG]![Banner do YouTube Tecnologia Digital Glitch Preto Roxo](https://github.com/coloryeon/coloryeon/assets/143181892/819a2736-2043-48cd-b39e-f45a9812e001)
+![OMG]!
 
 # 💫 About Me:
 I´m 16 years old. 👾<br>Studying Redes de Computadores at Senai Jandira! :) <br>Trying to learn coding alone. 🐱‍💻
