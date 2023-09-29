@@ -1,6 +1,6 @@
 
 
-![giphy](https://github.com/coloryeon/coloryeon/assets/143181892/8817016e-cf42-4030-a701-6ef63f998e6d)
+
 
 
 
